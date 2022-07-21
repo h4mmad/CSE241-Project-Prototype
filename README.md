@@ -21,10 +21,6 @@ It also reduces food wastage and promotes social work, as people are encouraged 
 </p>
 
 <p align="center">
-  <img src="mobile_ui/3.jpg"/>
-</p>
-
-<p align="center">
   <img src="mobile_ui/4.jpg"/>
 </p>
 
@@ -45,27 +41,11 @@ It also reduces food wastage and promotes social work, as people are encouraged 
 </p>
 
 <p align="center">
-  <img src="mobile_ui/8.jpg"/>
-</p>
-
-<p align="center">
   <img src="mobile_ui/9.jpg"/>
 </p>
 
 <p align="center">
   <img src="mobile_ui/10.jpg"/>
-</p>
-
-<p align="center">
-  <img src="mobile_ui/9.jpg"/>
-</p>
-
-<p align="center">
-  <img src="mobile_ui/11.jpg"/>
-</p>
-
-<p align="center">
-  <img src="mobile_ui/12.jpg"/>
 </p>
 
 <p align="center">
