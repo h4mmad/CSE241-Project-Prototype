@@ -12,6 +12,10 @@
 ![Alt text](mobile_ui/10.jpg)
 ![Alt text](mobile_ui/11.jpg)
 ![Alt text](mobile_ui/12.jpg)
+![Alt text](mobile_ui/13.jpg)
+![Alt text](mobile_ui/14.jpg)
+![Alt text](mobile_ui/15.jpg)
+![Alt text](mobile_ui/16.jpg)
 
 
 
