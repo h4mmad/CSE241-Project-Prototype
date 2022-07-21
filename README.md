@@ -8,7 +8,7 @@ It also reduces food wastage and promotes social work, as people are encouraged 
 
 ![Home](web_ui/Home-Web.jpg)
 
-![Donate Now](web_ui/'Donate Now.jpg')
+![Donate Now](web_ui/Donate%20Now.jpg)
 
 -----------------------------------------------------------------------------------------------
 
