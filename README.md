@@ -1,5 +1,8 @@
 # Mobile UI
 
+The mobile UI was designed as part of a food bank app project that would reduce food wastage, help the hungry and needy.
+It also promotes social work, as people are encouraged to volunteer.
+
 ![Alt text](mobile_ui/1.jpg)
 
 ![Alt text](mobile_ui/2.jpg)
