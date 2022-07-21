@@ -6,9 +6,7 @@ It also reduces food wastage and promotes social work, as people are encouraged 
 
 -----------------------------------------------------------------------------------------------
 
-### Login
 ![Login](mobile_ui/1.jpg)
-
 
 ![Alt text](mobile_ui/2.jpg)
 
