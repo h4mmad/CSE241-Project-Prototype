@@ -14,35 +14,65 @@ It also reduces food wastage and promotes social work, as people are encouraged 
   <img src="mobile_ui/1.jpg"/>
 </p>
 
-![Alt text](mobile_ui/2.jpg)
+<p align="center">
+  <img src="mobile_ui/2.jpg"/>
+</p>
 
-![Alt text](mobile_ui/3.jpg)
+<p align="center">
+  <img src="mobile_ui/3.jpg"/>
+</p>
 
-![Alt text](mobile_ui/4.jpg)
+<p align="center">
+  <img src="mobile_ui/4.jpg"/>
+</p>
 
-![Alt text](mobile_ui/5.jpg)
+<p align="center">
+  <img src="mobile_ui/5.jpg"/>
+</p>
 
-![Alt text](mobile_ui/6.jpg)
+<p align="center">
+  <img src="mobile_ui/6.jpg"/>
+</p>
 
-![Alt text](mobile_ui/7.jpg)
+<p align="center">
+  <img src="mobile_ui/7.jpg"/>
+</p>
 
-![Alt text](mobile_ui/8.jpg)
+<p align="center">
+  <img src="mobile_ui/8.jpg"/>
+</p>
 
-![Alt text](mobile_ui/9.jpg)
+<p align="center">
+  <img src="mobile_ui/8.jpg"/>
+</p>
 
-![Alt text](mobile_ui/10.jpg)
+<p align="center">
+  <img src="mobile_ui/9.jpg"/>
+</p>
 
-![Alt text](mobile_ui/11.jpg)
+<p align="center">
+  <img src="mobile_ui/10.jpg"/>
+</p>
 
-![Alt text](mobile_ui/12.jpg)
+<p align="center">
+  <img src="mobile_ui/9.jpg"/>
+</p>
 
-![Alt text](mobile_ui/13.jpg)
+<p align="center">
+  <img src="mobile_ui/11.jpg"/>
+</p>
 
-![Alt text](mobile_ui/14.jpg)
+<p align="center">
+  <img src="mobile_ui/12.jpg"/>
+</p>
 
-![Alt text](mobile_ui/15.jpg)
+<p align="center">
+  <img src="mobile_ui/13.jpg"/>
+</p>
 
-![Alt text](mobile_ui/16.jpg)
+To view more, check [this folder](/web_ui)
+
+
 
 
 
