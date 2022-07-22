@@ -6,20 +6,32 @@ It also reduces food wastage and promotes social work, as people are encouraged 
 
 -----------------------------------------------------------------------------------------------
 
+# Web UI
+
 ![Home](web_ui/Home-Web.jpg)
 
 Check [this folder](/web_ui) for more web UI.
 
 -----------------------------------------------------------------------------------------------
 
+### Mobile UI
+
 ![](mobile_ui/1.jpg)
 ![](mobile_ui/2.jpg)
+![](mobile_ui/3.jpg)
+![](mobile_ui/4.jpg)
+![](mobile_ui/5.jpg)
+![](mobile_ui/6.jpg)
+![](mobile_ui/7.jpg)
+![](mobile_ui/8.jpg)
+![](mobile_ui/9.jpg)
+![](mobile_ui/10.jpg)
+![](mobile_ui/11.jpg)
 ![](mobile_ui/12.jpg)
 ![](mobile_ui/13.jpg)
-
-
-
-To view more, check [this folder](/mobile_ui)
+![](mobile_ui/14.jpg)
+![](mobile_ui/15.jpg)
+![](mobile_ui/16.jpg)
 
 
 
