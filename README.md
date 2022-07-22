@@ -19,7 +19,7 @@ Check [this folder](/web_ui) for more web UI.
 
 
 
-To view more, check [this folder](/web_ui)
+To view more, check [this folder](/mobile_ui)
 
 
 
