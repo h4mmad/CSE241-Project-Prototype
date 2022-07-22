@@ -4,7 +4,7 @@ The mobile & web UI was designed as part of a food bank app project that would h
 
 It also reduces food wastage and promotes social work, as people are encouraged to volunteer.
 
-Read the [report](Food_Bank_Report.pdf) for more info.
+Read the [report](Food_Bank_Report.pdf) for more information which contain use case diagrams explaining the system.
 
 -----------------------------------------------------------------------------------------------
 
